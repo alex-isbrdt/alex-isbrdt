@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 1. I’m currently working on:<br>Developing web interfaces to control autonomous surface vehicles (ASVs) using ROS2.<br><br>2. I’m looking to collaborate on:<br>Projects related to robotics, AI, or environmental tech.<br><br>3. I’m currently learning:<br>AI for robotics.<br><br>4. I need help with:<br>Scaling real-time web interfaces for multiple robots.<br><br>5. Ask me about:<br>Robotics, ROS2, or renewable energy projects.<br><br>6. Fun fact:<br>I’m part of an Erasmus program in Seville!
 
 
